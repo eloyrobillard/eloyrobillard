@@ -15,7 +15,7 @@ Some friendly technologies:  \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" alt="PostgreSQL"/>
 
-🎌 Practicing Japanese covers the rest
+🎌 The practice of Japanese covers the rest
 
 ***
 
