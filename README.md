@@ -1,5 +1,5 @@
 Hi, I am a bipedal creature currently starring at a (mostly) inanimate object passing a message over to the subgroup of all bipedal creatures that is also currently starring at a (mostly) inanimate object.  \
-よろしく。
+よろしく。(estonian for "pasta")
 
 🔬 People may not be what they eat, but developers mostly are what they use.
 
