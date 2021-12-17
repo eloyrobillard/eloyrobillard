@@ -15,5 +15,5 @@ Some of the technologies I've learned to use:  \
 ***
 
 📖 Currently studying game engines with [Jason Gregory's massive work](https://www.gameenginebook.com/)  \
-🔭 Building games with [Unreal Engine 4](https://www.unrealengine.com)  \
+🔭 Building games with [Unreal Engine 4](https://www.unrealengine.com)
 
