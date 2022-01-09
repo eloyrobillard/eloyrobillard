@@ -1,4 +1,4 @@
-Hi, and welcome.
+Hi, and welcome. Until very recently, I'd began to question whether passion was a real thing, or if people made it up just to look like they had a mission. And then I found out about low-level programming.
 
 Favorite languages: \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" alt="Rust" />
@@ -15,5 +15,5 @@ Some of the technologies I've learned to use:  \
 ***
 
 📖 Currently studying game engine architecture thanks to [Jason Gregory](https://www.gameenginebook.com/)  \
-🔭 Building compilers in my free time
+🔭 Building compilers in my spare time, all of my spare time
 
