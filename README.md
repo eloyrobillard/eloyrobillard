@@ -1,9 +1,11 @@
 Hi, I am yet another SE. I'm mostly wary of OOP but also know it has few equals in some areas (drivers, GUI libraries). And component-based OOP is pretty cool.
 
-My main hobbies are:
-* Game engines
-* Compilers
-* Pure Functional Programming
+My main goals:
+* To reach top rank in Codewars (or equivalent) in all languages ever
+* To build a custom game engine, including custom graphics and physics libraries
+  * No requirement is made on whether it can actually run a game
+* To develop my own compiled language, with and without an LLVM backend
+* To invent pure functional programming in AMD64
 
 Favorite languages: \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" alt="Rust" title="Rust" />
