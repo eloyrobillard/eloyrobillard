@@ -14,6 +14,6 @@ Some of the technologies I've learned to use:  \
 
 ***
 
-📖 Currently studying game engine architecture thanks to [Jason Gregory](https://www.gameenginebook.com/)  \
-🔭 Building compilers in my spare time, all of my spare time
+📖 Currently studying [Game engine architecture](https://www.gameenginebook.com/)  \
+🔭 Building compilers and learning AMD64 Assembly in my spare time
 
