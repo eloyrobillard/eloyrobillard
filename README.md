@@ -1,4 +1,4 @@
-Hi, I am yet another SE. Like many, I mostly dislike OOP but also know of areas (like drivers) where it's the way to go. And component-based OOP is pretty cool too.
+Hi, I am yet another SE. I'm mostly wary of OOP but also know it has few equals in some areas (drivers, GUI libraries). And component-based OOP is pretty cool.
 
 My main hobbies are:
 * Game engines
