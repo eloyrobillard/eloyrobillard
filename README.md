@@ -1,4 +1,9 @@
-Hi, and welcome. Until very recently, I'd began to question whether passion was a real thing, or if people made it up just to look like they had a mission. And then I found out about low-level programming.
+Hi, I am yet another SE. Like many, I mostly dislike OOP but also know about areas (like drivers) where it's the way to go.
+
+My main hobbies are:
+* Game engines
+* Compilers
+* Pure Functional Programming
 
 Favorite languages: \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" alt="Rust" />
@@ -15,5 +20,5 @@ Some of the technologies I've learned to use:  \
 ***
 
 📖 Currently studying [Game engine architecture](https://www.gameenginebook.com/)  \
-🔭 Building compilers and learning AMD64 Assembly in my spare time
+🔭 Building yet another C compiler and learning AMD64 Assembly in my spare time
 
