@@ -1,4 +1,4 @@
-Hi, I am yet another SE. I'm mostly wary of OOP but also know it has few equals in some areas (drivers, GUI libraries). And component-based OOP is pretty cool.
+Hi, I am yet another SE.
 
 My main goals:
 * To reach top rank in Codewars (or equivalent) in all languages ever
