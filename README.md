@@ -1,4 +1,4 @@
-Hi, I am yet another SE.
+Hi, have you heard of low-level programming?
 
 My main goals:
 * To reach top rank in Codewars (or equivalent) in all languages ever
@@ -22,5 +22,5 @@ Some of the technologies I've learned to use:  \
 ***
 
 📖 Currently studying [Game engine architecture](https://www.gameenginebook.com/)  \
-🔭 Building yet another C compiler and learning AMD64 Assembly in my spare time
+🔭 Building a programming language and learning AMD64 Assembly in my spare time
 
