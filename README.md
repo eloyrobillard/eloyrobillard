@@ -9,6 +9,7 @@ My main goals:
 
 Favorite languages: \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" alt="Rust" title="Rust" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50px" alt="Scala" title="Scala" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50px" alt="Haskell" title="Haskell" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="50px" alt="C" title="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="50px" alt="C++" title="C++" />
