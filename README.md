@@ -4,7 +4,7 @@ My main goals:
 * To reach top rank in Codewars (or equivalent) in all languages ever
 * To build a custom game engine, including custom graphics and physics libraries
   * No requirement is made on whether it can actually run a game
-* To develop my own compiled language, with and without an LLVM backend
+* (UNDERWAY) To develop my own compiled language, with and without an LLVM backend
 * To invent pure functional programming in AMD64
 
 Favorite languages: \
