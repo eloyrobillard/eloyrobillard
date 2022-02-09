@@ -1,11 +1,10 @@
 Hi, have you heard of low-level programming?
 
 My main goals:
-* To reach top rank in Codewars (or equivalent) in all languages ever
 * To build a custom game engine, including custom graphics and physics libraries
   * No requirement is made on whether it can actually run a game
-* (UNDERWAY) To develop my own compiled language, with and without an LLVM backend
-* To invent pure functional programming in AMD64
+* To develop my own compiled language, with and without an LLVM backend
+* To write a compiler in every language, for every language, ever
 
 Favorite languages: \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" alt="Rust" title="Rust" />
