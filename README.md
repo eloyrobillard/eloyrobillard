@@ -4,7 +4,8 @@ My main goals:
 * To build a custom game engine, including custom graphics and physics libraries
   * No requirement is made on whether it can actually run a game
 * To develop my own compiled language, with and without an LLVM backend
-* To write a compiler in every language, for every language, ever
+* To write a Rust compiler in Rust, a Haskell compiler in Haskell,...
+* To invent functional programming in amd64
 
 Favorite languages: \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" alt="Rust" title="Rust" />
@@ -22,5 +23,5 @@ Some of the technologies I've learned to use:  \
 ***
 
 📖 Currently studying [Game engine architecture](https://www.gameenginebook.com/)  \
-🔭 Building a programming language and learning AMD64 Assembly in my spare time
+🔭 Building a programming language and learning amd64 Assembly in my spare time
 
