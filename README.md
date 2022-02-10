@@ -4,7 +4,7 @@ My main goals:
 * To build a custom game engine, including custom graphics and physics libraries
   * No requirement is made on whether it can actually run a game
 * To develop my own compiled language, with and without an LLVM backend
-* To write a Rust compiler in Rust, a Haskell compiler in Haskell,...
+* To write a Rust compiler in Rust, a Haskell compiler in Haskell, a C++ interpreter in Raku...
 * To invent functional programming in amd64
 
 Favorite languages: \
