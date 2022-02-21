@@ -22,6 +22,6 @@ Some of the technologies I've learned to use:  \
 
 ***
 
-📖 Currently studying [Game engine architecture](https://www.gameenginebook.com/)  \
+📖 Currently studying [Compilers](https://www.edx.org/course/compilers?index=product&queryID=e4cc518d819b9b2e35054e85d4518034&position=1)  \
 🔭 Building a programming language and learning amd64 Assembly in my spare time
 
