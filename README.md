@@ -1,5 +1,3 @@
-I believe that the pursuit of mastery (e.g. of programming) centered around 
-
 ## Current reads
 
 - Game Engine Architecture by Jason Gregory
