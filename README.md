@@ -4,8 +4,8 @@
 - Gates (aka Weird Block): Godot 2D platformer prototype with teleportation enabled ([itch.io demo](https://autoparanoid.itch.io/gates)): https://github.com/eloyrobillard/godot-weird-block
 - Laggy Robot: Godot 2D platformer first built with friends for a game jam, where you can only send instructions to your character instead of directly control them ([itch.io demo](https://orderas.itch.io/laggy-bot)): https://github.com/eloyrobillard/laggy-robot
   - It's really hard
+- A raytracer in C: https://github.com/eloyrobillard/c-raytracer
 
 ## Current Projects
-
-- A raytracer in C (very early stage): https://github.com/eloyrobillard/c-raytracer
 - NAND2Tetris: completed everything up to the VM (in [Haskell](https://github.com/eloyrobillard/hs-nand2tetris-vm) and [Clojure](https://github.com/eloyrobillard/clj-nand-2-tetris))
+- A marbles game: [https://github.com/eloyrobillard/marbles](https://github.com/eloyrobillard/marbles)
